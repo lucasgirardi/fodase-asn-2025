@@ -6,3 +6,5 @@ Um curso de fodase
 ### Episódio 01 - Instalação Windows
 
 ### Episódio 02 - Instalação ambiente Mac
+
+### Episódio 03 - Instalação ambiente Linux
