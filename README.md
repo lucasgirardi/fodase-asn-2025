@@ -5,4 +5,4 @@ Um curso de fodase
 
 ### Episódio 01 - Instalação Windows
 
-### Episódio 02
+### Episódio 02 - Instalação ambiente Mac
